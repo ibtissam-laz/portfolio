@@ -28,7 +28,7 @@ export default {
         purpleE: "#9720f1",
       },
       fontFamily: {
-        poppins: ["Poppins", "sans-serif"],
+        poppins: ["Poppins", "sans-serif", "Pixelify-sans", "Tiny5", "Jersey-20", "Micro-5"],
       },
     },
     screens: {
