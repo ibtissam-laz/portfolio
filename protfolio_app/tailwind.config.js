@@ -28,7 +28,10 @@ export default {
         purpleE: "#9720f1",
       },
       fontFamily: {
-        pixel: ["sans-serif", "Pixelify-sans", "Tiny5", "Jersey-20", "Micro-5"],
+        'PixelifySans': ["Pixelify+Sans", "sans-serif"],
+        'Jersey20': ["Jersey+20", "sans-serif"],
+        'Tiny5': ["Tiny5", "sans-serif"],
+        'Micro5': ["Micro+5", "sans-serif"]
       },
     },
     screens: {
