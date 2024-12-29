@@ -1,7 +1,7 @@
 🧰 Technologies Used
 
-- React.js (using Vite)
+- React.js + Vite
 
-- Tailwind CSS as a PostCSS plugin
+- Tailwind CSS + PostCSS 
 
 
